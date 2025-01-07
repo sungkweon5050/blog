@@ -5,7 +5,7 @@ publishdir = "public"
 canonifyurls = true
 relativeURLS = false
 
-theme = "academic"
+theme = "hello-friend"
 title = "My awesome blog"
 languageCode = "en-us"
 summaryLength = 42
