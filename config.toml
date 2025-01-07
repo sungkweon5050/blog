@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://sungkweon5050.github.io/blog/"
 contentdir = "content"
 publishdir = "public"
 
