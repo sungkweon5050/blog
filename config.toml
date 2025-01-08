@@ -5,7 +5,7 @@ publishdir = "public"
 canonifyurls = true
 relativeURLS = false
 
-theme = "hello-friend"
+theme = "academic"
 title = "My awesome blog"
 languageCode = "en-us"
 summaryLength = 42
@@ -14,7 +14,7 @@ copyright = "copyright info, like license, year, author name, etc."
 
 # Google Analytics configuration fix
 [params]
-  googleAnalytics = "YOUR-GA-ID"  # Correct way to configure Google Analytics ID
+  # googleAnalytics = "YOUR-GA-ID"  # Correct way to configure Google Analytics ID
   description = "Something about your blog"
   showFooterCredits = true
   math = false
