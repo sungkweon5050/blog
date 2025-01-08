@@ -5,7 +5,34 @@ publishdir = "public"
 canonifyurls = true
 relativeURLS = false
 
-theme = "academic"
+theme = "hello-friend"
 title = "My awesome blog"
 languageCode = "en-us"
 summaryLength = 42
+
+[params]
+  description = "An example Hugo site hosted on GitHub Pages."
+
+# copyright = "copyright info, like license, year, author name, etc."
+
+# # Google Analytics configuration fix
+# [params]
+#   # googleAnalytics = "YOUR-GA-ID"  # Correct way to configure Google Analytics ID
+#   description = "Something about your blog"
+#   showFooterCredits = true
+#   math = false
+#   useIcon = true
+#   author = "Your Name"
+
+# [services]
+#   [services.googleAnalytics]
+#   id = "YOUR-GA-ID"  # Replacing deprecated field
+
+# # Taxonomy for authors (optional)
+# [taxonomies]
+#   author = "authors"  # Uncomment this if you want to use author taxonomy
+
+# [outputFormats]
+#   [outputFormats.RSS]
+#   mediatype = "application/rss+xml"
+#   baseName = "feed"

@@ -2,18 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sungkweon5050.github.io/blog/categories/</loc>
+    <loc>https://sungkweon5050.github.io/blog/authors/</loc>
   </url><url>
     <loc>https://sungkweon5050.github.io/blog/posts/hello/</loc>
   </url><url>
     <loc>https://sungkweon5050.github.io/blog/</loc>
   </url><url>
     <loc>https://sungkweon5050.github.io/blog/posts/</loc>
-  </url><url>
-    <loc>https://sungkweon5050.github.io/blog/tags/some/</loc>
-  </url><url>
-    <loc>https://sungkweon5050.github.io/blog/tags/</loc>
-  </url><url>
-    <loc>https://sungkweon5050.github.io/blog/tags/tags/</loc>
   </url>
 </urlset>
